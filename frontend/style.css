@@ -1,0 +1,28 @@
+ body {
+    background-color: #f5fbfc;
+} 
+
+h1, h2 {
+    text-align: center;
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+}
+
+#hero {
+    background-color: #4B9CD3;
+}
+
+#level {
+    background-color: #4B9CD3;
+}
+
+/* .even {
+    background-color: #79c6e0;
+} */
